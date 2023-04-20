@@ -9,7 +9,7 @@ kaboom();
 
 
 
-loadSprite("tlo","tło.png")
+loadSprite("tlo","Tło.png")
 loadSprite("mikolaj","Mikołaj Wazowski.png")
 loadSound("muzyka", "DzisiajwBetlejem.mp3")
 
