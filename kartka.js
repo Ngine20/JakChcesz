@@ -43,3 +43,4 @@ mikolaj.onUpdate (() => {
 }
 )
 
+onMouseRelease(()=>play("muzyka"))
